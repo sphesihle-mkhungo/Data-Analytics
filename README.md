@@ -82,13 +82,11 @@ I am currently expanding my expertise in Data Science, Machine Learning, Databas
 - RStudio
 - VS Code
 - Genstat
+- Python
 - Microsoft Excel
-- JASP
-- Jamovi
-- SigmaPlot
-- Git
+- SPSS
 - GitHub
-- Microsoft PowerPoint
+- Power BI
 
 ---
 
@@ -183,7 +181,7 @@ GitHub:
 https://github.com/uSphe-MK
 
 LinkedIn:
-(Add LinkedIn)
+https://www.linkedin.com/in/sphesihlemkhungo13
 
 Email:
 sphesihle.mkhungo@kzndard.gov.za
