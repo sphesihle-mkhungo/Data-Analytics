@@ -44,7 +44,7 @@ I am currently expanding my expertise in Data Science, Machine Learning, Databas
 - Multiple Regression
 - Principal Component Analysis (PCA)
 - Redundancy Analysis (RDA)
-- NMDS
+- Non-metric Multidimensional Scaling (NMDS)
 - Cluster Analysis
 - Correlation Analysis
 - Survey Analysis
