@@ -1,6 +1,6 @@
 # Hi there, I'm Sphesihle Mkhungo 👋
 
-## Agricultural Biostatistician | Data Analyst | Aspiring Data Scientist
+## Agricultural Biometrician | Data Analyst |
 
 Welcome to my GitHub portfolio!
 
