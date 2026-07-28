@@ -1,8 +1,7 @@
-# Hi there, I'm Sphesihle Mkhungo 👋
+# Hi there, I'm Sphesihle Mkhungo 
 
-## Agricultural Biometrician | Data Analyst |
+## Biometrician | Data Analyst |
 
-Welcome to my GitHub portfolio!
 
 I am an Agricultural Biostatistician and Data Analyst with a passion for using data to solve real-world problems in agriculture, ecology, and environmental science. My work focuses on transforming complex research data into meaningful insights that support scientific discovery and evidence-based decision-making.
 
